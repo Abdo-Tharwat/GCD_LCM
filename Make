@@ -1,0 +1,9 @@
+
+sources= example.c\
+         GCD_LCM.c\
+
+
+headers= GCD_LCM.h\
+
+
+C_Flags= -std=-c11 
