@@ -1,4 +1,7 @@
 #include"GCD_LCM.h"
+#include"stdio.h"
+#include"stdlib.h"
+
 
 int main(){
     
